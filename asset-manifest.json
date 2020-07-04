@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cruzrovira/expense-control/static/css/main.bdda1077.chunk.css",
+    "main.js": "/cruzrovira/expense-control/static/js/main.d04c7d2a.chunk.js",
+    "main.js.map": "/cruzrovira/expense-control/static/js/main.d04c7d2a.chunk.js.map",
+    "runtime-main.js": "/cruzrovira/expense-control/static/js/runtime-main.8b66950d.js",
+    "runtime-main.js.map": "/cruzrovira/expense-control/static/js/runtime-main.8b66950d.js.map",
+    "static/js/2.b44a77dd.chunk.js": "/cruzrovira/expense-control/static/js/2.b44a77dd.chunk.js",
+    "static/js/2.b44a77dd.chunk.js.map": "/cruzrovira/expense-control/static/js/2.b44a77dd.chunk.js.map",
+    "index.html": "/cruzrovira/expense-control/index.html",
+    "precache-manifest.9987562bf2f51153fc676e5afb6663f6.js": "/cruzrovira/expense-control/precache-manifest.9987562bf2f51153fc676e5afb6663f6.js",
+    "service-worker.js": "/cruzrovira/expense-control/service-worker.js",
+    "static/css/main.bdda1077.chunk.css.map": "/cruzrovira/expense-control/static/css/main.bdda1077.chunk.css.map",
+    "static/js/2.b44a77dd.chunk.js.LICENSE.txt": "/cruzrovira/expense-control/static/js/2.b44a77dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b66950d.js",
+    "static/js/2.b44a77dd.chunk.js",
+    "static/css/main.bdda1077.chunk.css",
+    "static/js/main.d04c7d2a.chunk.js"
+  ]
+}

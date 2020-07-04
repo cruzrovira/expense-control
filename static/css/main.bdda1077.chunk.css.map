@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,KACE,kBAAmB,CACnB,cAAe,CACf,QAAS,CACT,aACF","file":"main.bdda1077.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nbody {\n  background: #007bdf;\n  font-size: 16px;\n  margin: 0;\n  color: #53575a;\n}\n"]}
