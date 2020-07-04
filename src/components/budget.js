@@ -1,5 +1,6 @@
 import React, { useRef, useState } from "react";
 import styled from "styled-components";
+import PropTypes from "prop-types";
 
 const BudgetStyled = styled.form`
   background: #fafdff;
@@ -64,7 +65,7 @@ const Budget = ({ addBuget }) => {
 
     amountRef.current.value = "";
     amountRef.current.focus();
-    addBuget(amount);
+    addBuget(parseFloat(amount));
   };
   return (
     <BudgetStyled onSubmit={(e) => addmount(e)}>
@@ -77,4 +78,7 @@ const Budget = ({ addBuget }) => {
   );
 };
 
+Budget.propTypes = {
+  addBuget: PropTypes.func.isRequired,
+};
 export default Budget;

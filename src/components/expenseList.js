@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import PropTypes from "prop-types";
 
 const ExpenseListStyled = styled.div`
   background: #fafdff;
@@ -62,4 +63,9 @@ const ExpenseList = ({ expenseList, budget, totalExpense }) => {
   );
 };
 
+ExpenseList.protoType = {
+  expenseList: PropTypes.array.isRequired,
+  budget: PropTypes.number.isRequired,
+  totalExpense: PropTypes.number.isRequired,
+};
 export default ExpenseList;

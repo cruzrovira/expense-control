@@ -2,6 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import Expense from "./expense";
 import ExpenseList from "./expenseList";
+import PropTypes from "prop-types";
+
 const ControlStyled = styled.div`
   .item {
     margin-bottom: 15px;
@@ -18,6 +20,7 @@ const ControlStyled = styled.div`
 `;
 
 const Control = ({ addExpenseList, expenseList, budget, totalExpense }) => {
+  console.log(budget);
   return (
     <ControlStyled>
       <div className="item">
@@ -33,5 +36,10 @@ const Control = ({ addExpenseList, expenseList, budget, totalExpense }) => {
     </ControlStyled>
   );
 };
-
+Control.propTypes = {
+  addExpenseList: PropTypes.func.isRequired,
+  expenseList: PropTypes.array.isRequired,
+  budget: PropTypes.number.isRequired,
+  totalExpense: PropTypes.number.isRequired,
+};
 export default Control;
