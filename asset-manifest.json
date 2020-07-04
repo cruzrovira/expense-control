@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cruzrovira/expense-control/static/css/main.bdda1077.chunk.css",
-    "main.js": "/cruzrovira/expense-control/static/js/main.d04c7d2a.chunk.js",
-    "main.js.map": "/cruzrovira/expense-control/static/js/main.d04c7d2a.chunk.js.map",
-    "runtime-main.js": "/cruzrovira/expense-control/static/js/runtime-main.8b66950d.js",
-    "runtime-main.js.map": "/cruzrovira/expense-control/static/js/runtime-main.8b66950d.js.map",
-    "static/js/2.b44a77dd.chunk.js": "/cruzrovira/expense-control/static/js/2.b44a77dd.chunk.js",
-    "static/js/2.b44a77dd.chunk.js.map": "/cruzrovira/expense-control/static/js/2.b44a77dd.chunk.js.map",
-    "index.html": "/cruzrovira/expense-control/index.html",
-    "precache-manifest.9987562bf2f51153fc676e5afb6663f6.js": "/cruzrovira/expense-control/precache-manifest.9987562bf2f51153fc676e5afb6663f6.js",
-    "service-worker.js": "/cruzrovira/expense-control/service-worker.js",
-    "static/css/main.bdda1077.chunk.css.map": "/cruzrovira/expense-control/static/css/main.bdda1077.chunk.css.map",
-    "static/js/2.b44a77dd.chunk.js.LICENSE.txt": "/cruzrovira/expense-control/static/js/2.b44a77dd.chunk.js.LICENSE.txt"
+    "main.css": "/expense-control/static/css/main.bdda1077.chunk.css",
+    "main.js": "/expense-control/static/js/main.dd7bb2c4.chunk.js",
+    "main.js.map": "/expense-control/static/js/main.dd7bb2c4.chunk.js.map",
+    "runtime-main.js": "/expense-control/static/js/runtime-main.0acc8300.js",
+    "runtime-main.js.map": "/expense-control/static/js/runtime-main.0acc8300.js.map",
+    "static/js/2.7164cba1.chunk.js": "/expense-control/static/js/2.7164cba1.chunk.js",
+    "static/js/2.7164cba1.chunk.js.map": "/expense-control/static/js/2.7164cba1.chunk.js.map",
+    "index.html": "/expense-control/index.html",
+    "precache-manifest.ce78350cc4f0265ee366e0dfd8774c07.js": "/expense-control/precache-manifest.ce78350cc4f0265ee366e0dfd8774c07.js",
+    "service-worker.js": "/expense-control/service-worker.js",
+    "static/css/main.bdda1077.chunk.css.map": "/expense-control/static/css/main.bdda1077.chunk.css.map",
+    "static/js/2.7164cba1.chunk.js.LICENSE.txt": "/expense-control/static/js/2.7164cba1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b66950d.js",
-    "static/js/2.b44a77dd.chunk.js",
+    "static/js/runtime-main.0acc8300.js",
+    "static/js/2.7164cba1.chunk.js",
     "static/css/main.bdda1077.chunk.css",
-    "static/js/main.d04c7d2a.chunk.js"
+    "static/js/main.dd7bb2c4.chunk.js"
   ]
 }
